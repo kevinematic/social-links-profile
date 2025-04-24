@@ -1,3 +1,17 @@
+@font-face {
+  font-family: "Inter-Bold";
+  src: url("./assets/fonts/static/Inter-Bold.ttf") format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Inter-Regular";
+  src: url("./assets/fonts/static/Inter-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
 *,
 *::before,
 *::after {
@@ -38,4 +52,14 @@ img#profile-picture {
   width: 88px;
   height: 88px;
   border-radius: 50%;
+}
+
+h1,
+h2,
+li {
+  font-family: "Inter-Bold";
+}
+
+p {
+  font-family: "Inter-Regular";
 }
