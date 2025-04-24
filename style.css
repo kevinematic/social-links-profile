@@ -1,0 +1,36 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul[role="list"],
+ol[role="list"] {
+  list-style: none;
+}
+
+:root {
+  --black-background: #141414;
+  --gray-background: #1f1f1f;
+}
+
+body {
+  background-color: var(--black-background);
+}
+
+main {
+  width: 384px;
+  height: 611px;
+  background-color: var(--gray-background);
+}
+
+img#profile-picture {
+  width: 88px;
+  height: 88px;
+  border-radius: 50%;
+}
