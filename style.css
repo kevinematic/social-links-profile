@@ -27,6 +27,11 @@ main {
   width: 384px;
   height: 611px;
   background-color: var(--gray-background);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 24px;
 }
 
 img#profile-picture {
