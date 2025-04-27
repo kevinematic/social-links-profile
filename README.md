@@ -52,10 +52,6 @@ This project helped me practice implementing and styling a clean, responsive pro
 - Implementing custom fonts with @font-face
 - Building a responsive layout
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
 ```css
 /* CSS custom properties for colors and sizing */
 :root {
@@ -97,5 +93,5 @@ In future projects, I plan to focus on:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/kevinematic)
-- Twitter - [@yourusername](https://www.twitter.com/kevinematic)
+- Frontend Mentor - [@kevinematic](https://www.frontendmentor.io/profile/kevinematic)
+- Twitter - [@kevinematic](https://www.twitter.com/kevinematic)
