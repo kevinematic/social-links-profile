@@ -118,7 +118,6 @@ li {
   font-size: var(--size-preset-2);
   background-color: var(--grey-light);
   padding: 12px;
-  width: 304px;
   height: 45px;
   border-radius: 8px;
   transition: background-color 0.3s ease;
@@ -146,4 +145,14 @@ a {
   width: 304px;
   height: 61px;
   gap: 4px;
+}
+
+@media (max-width: 375px) {
+  .main-container {
+    width: 327px;
+  }
+
+  .links {
+    width: 279px;
+  }
 }
