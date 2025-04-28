@@ -89,7 +89,7 @@ In future projects, I plan to focus on:
 - [Prompt](https://chatgpt.com/share/680f2c1b-31ac-8010-9f84-c30426f0f131) - Flex-box, brief overview.
 - [Prompt](https://chatgpt.com/share/680f2c91-62ec-8010-9c59-c0acf4d8180e) - Media queries, brief overview.
 - [Prompt](https://claude.ai/share/4b5ddd20-a430-4d03-9e92-4143ffdf0377) - CSS Custom properties, brief overview.
-- [Prompt](https://chatgpt.com/share/680f2d80-f2ec-8010-8034-d8d9782492be) - Make an <li> element look like a button.
+- [Prompt](https://chatgpt.com/share/680f2d80-f2ec-8010-8034-d8d9782492be) - Make an li element look like a button.
 - [Prompt](https://chatgpt.com/share/67fcbfc8-c468-8010-8f3a-7d3fbfa33755) - @font-face rule for .ttf fonts.
 
 ## Author
