@@ -123,13 +123,20 @@ li {
   transition: background-color 0.3s ease;
 }
 
-li:hover {
+li:hover,
+li:focus-within {
   background-color: var(--green);
   cursor: pointer;
 }
 
-li:hover a {
+li:hover a,
+li:focus-within a {
   color: var(--grey-light);
+}
+
+a:focus {
+  outline: 2px solid var(--green);
+  outline-offset: 2px;
 }
 
 a {
