@@ -95,4 +95,4 @@ In future projects, I plan to focus on:
 ## Author
 
 - Frontend Mentor - [@kevinematic](https://www.frontendmentor.io/profile/kevinematic)
-- Twitter - [@kevinematic](https://www.twitter.com/kevinematic)
+- X - Formerly Twitter - [@kevinematic](https://www.twitter.com/kevinematic)
